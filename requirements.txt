@@ -1,0 +1,30 @@
+# packaging
+pip
+
+# data science
+numpy
+pandas
+seaborn
+
+# deep learning
+tensorflow
+scikit-learn
+tf-keras-vis
+
+# tests/linter
+
+# API
+gcsfs
+google-cloud-storage
+mlflow
+s3fs
+uvicorn
+python-multipart
+fastapi
+
+# utilities
+joblib
+memoized-property
+coverage
+split-folders
+opencv-python
